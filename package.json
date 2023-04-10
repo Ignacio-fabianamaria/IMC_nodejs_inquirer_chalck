@@ -1,0 +1,21 @@
+{
+  "name": "imc_nodejs_inquirer_chalck",
+  "version": "1.0.0",
+  "description": "\"Um aplicativo de linha de comando em Node.js para calcular o índice de massa corporal",
+  "main": "index.js",
+   "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ignacio-fabianamaria/IMC_nodejs_inquirer_chalck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.5"
+  }
+}
